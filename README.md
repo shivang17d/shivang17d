@@ -1,12 +1,6 @@
-   
 
 
-
-
-
-
-
-<h1 align="center">👋 Hi, I'm <a href="https://shivanggupta.vercel.app/" target="_blank">  Shivang  Gupta </a></h1>
+<h1 align="center">Hi, I'm <a href="https://shivanggupta.vercel.app/" target="_blank">  Shivang  Gupta </a></h1>
 
 - 🎓 BE in Information Technology 
 
@@ -49,7 +43,7 @@
 
 
 
-
+<br/>
 
 [![Shivang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivang17d&hide=issues&count_private=true&show_icons=true&theme=calm)](https://github-readme-stats.vercel.app/api?username=shivangguptax&hide=issues&count_private=true&show_icons=true&theme=calm)
 
