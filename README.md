@@ -45,7 +45,7 @@
 
 <br/>
 
-[![Shivang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivang17d&hide=issues&count_private=true&show_icons=true&theme=calm)](https://github-readme-stats.vercel.app/api?username=shivangguptax&hide=issues&count_private=true&show_icons=true&theme=calm)
+[![Shivang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivang17d&hide=issues&count_private=true&show_icons=true&theme=calm)](https://github-readme-stats.vercel.app/api?username=shivang17d&hide=issues&count_private=true&show_icons=true&theme=calm)
 
 
 
