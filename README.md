@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm <a href="https://shivanggupta.vercel.app/" target="_blank">  Shivang  Gupta </a></h1>
 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Algerians&color=F07C3D&width=500&lines=I+am+a+Open+Source+Enthusiast....">
+
 
 - 🎓 BE in Information Technology 
 
